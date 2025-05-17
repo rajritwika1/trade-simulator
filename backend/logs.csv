@@ -1,0 +1,2 @@
+timestamp,symbol,price,quantity,slippage,fees,impact,net_cost,latency_ms
+2025-05-17T17:39:40Z,BTC-USDT-SWAP,103185.1000,0.0010,0.0010,0.1000,0.0000,0.1010,-9223372036854.7754
